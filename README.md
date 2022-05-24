@@ -1,5 +1,6 @@
 # majsoul-plus-nazrin
-Replaces Ichihime to Nazrin. Original artwork by @ku_shi
+![alt_text](https://github.com/L33tw33b/majsoul-plus-nazrin/blob/master/pics/nazrin_mahjong.png)<br>
+**Replaces Ichihime to Nazrin. Original artwork by @ku_shi**
 
 ## Installation
 - Goto releases tab and click `Touhou.Nazrin.Mod.mspe`
