@@ -18,3 +18,8 @@ Replaces Ichihime to Nazrin. Original artwork by @ku_shi
 - `"audio/sound/yiji/act_babei.mp3"` -> `"audio/sound/{name}/act_babei.mp3"` <br>
 3. Edit `script.js` in line `80`(id found in `%AppData%\Roaming\Majsoul Plus\static\2\v0.10.1.w\en\extendRes\emo` directory: <br>
 - `case {id number}:`
+
+## Todo:
+- Replace Emotes
+- Replace voice tracks
+- I don't really care about the bio
